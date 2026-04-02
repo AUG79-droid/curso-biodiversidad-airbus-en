@@ -1,0 +1,1 @@
+Abre index.html. No necesitas instalar nada. Mantén la carpeta images y los archivos home-hero-collage.png y home-route-collage.png junto al HTML.
